@@ -1,0 +1,44 @@
+body,html{
+    height: 100%;
+    margin: 0px;
+}
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+header{
+    background-image:url("../Images/Blues.JPG");
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    padding: 30px;
+    text-align: right;
+    font-size: 20px;
+    color: black;
+    font-family: 'Franklin Gothic Medium';
+}
+nav{
+    float: left;
+    width: 30%;
+    height: 350px;
+    padding: 20px;
+}
+nav ul{
+    display: inline;
+    list-style-type: none;
+    padding: 0;
+}
+article{
+    float: left;
+    padding: 20px;
+    width: 70%;
+    height: 350px;
+}
+section{
+    padding: 0%;
+    width: 30%;
+
+
+}
+footer{
+    padding: 10px;
+}
